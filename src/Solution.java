@@ -23,7 +23,7 @@ public class Solution {
     }
 
     public static void main(String[] args){
-        Rearrange("", "456728");
+        Rearrange("", "123456789");
         stringSet.remove("");
         //for (String j : stringSet) System.out.println(j);
 
